@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
 
 
@@ -16,4 +17,10 @@ Stay silent
 
 Smile 
 Speak: You're welcome
+=======
+Question: How do I get to the bathroom?
+
+
+
+>>>>>>> b946e43dcdfbc4424f38a6fb05055555f52908ed
 
